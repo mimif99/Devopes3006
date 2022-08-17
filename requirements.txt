@@ -1,0 +1,4 @@
+requests
+selenium
+awscli
+#pip install -r requirements
